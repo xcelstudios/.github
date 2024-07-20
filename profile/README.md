@@ -1,5 +1,5 @@
-## XTRA RP / XRP
+## XCEL RP / XRP
 
-- XTRA is a FiveM Semi-RP/Fragging server.
+- XCEL is a FiveM Semi-RP/Fragging server.
 
 - [Discord](https://discord.gg/gKuGVFKmmN)
